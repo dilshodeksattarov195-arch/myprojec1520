@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentprocess",
+        "uuid": 7489040,
+        "checksum": "fh5pmc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
